@@ -1,0 +1,19 @@
+{
+  "name": "vote4episodes",
+  "version": "1.0.0",
+  "description": "Vote for your favorite Archer, Venture Bros. or Rick and Morty episodes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmorrison/vote4episodes.git"
+  },
+  "author": "Maria M. Morrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmorrison/vote4episodes/issues"
+  },
+  "homepage": "https://github.com/mmmorrison/vote4episodes#readme"
+}
