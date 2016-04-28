@@ -5,7 +5,7 @@ app.config(function($locationProvider, $routeProvider){
   $routeProvider
     .when('/archer', {
       templateUrl: '../partials/archer.html',
-      controller: 'CartController'
+      controller: 'MainController'
     })
     .when('/bojack', {
       templateUrl: '../partials/bojack.html',
