@@ -11,6 +11,10 @@ app.config(function($locationProvider, $routeProvider){
       templateUrl: '../partials/bojack.html',
       controller: 'MainController'
     })
+    .when('/futurama', {
+      templateUrl: '../partials/futurama.html',
+      controller: 'MainController'
+    })
     .when('/randm', {
       templateUrl: '../partials/randm.html',
       controller: 'MainController'

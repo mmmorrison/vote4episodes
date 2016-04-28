@@ -2,3 +2,74 @@ body {
   min-height: 2000px;
   padding-top: 70px;
 }
+.one{
+  background-color: #9AD5D8;
+  height: 50vh;
+  width: 20vw;
+  float: left;
+}
+.two{
+  background-color: #2FD9EB;
+  height: 50vh;
+  width: 20vw;
+  float: left;
+}
+.three{
+  background-color: #519F50;
+  height: 50vh;
+  width: 20vw;
+  float: left;
+}
+.four{
+  background-color: #045649;
+  height: 50vh;
+  width: 20vw;
+  float: left;
+}
+.five{
+  background-color: #ADD4EB;
+  height: 50vh;
+  width: 20vw;
+  float: left;
+}
+.a{
+  background-color: #F4B81A;
+  height: 50vh;
+  width: 14vw;
+  float: left;
+}
+.b{
+  background-color: #A3C144;
+  height: 50vh;
+  width: 14vw;
+  float: left;
+}
+.c{
+  background-color: #053AF4;
+  height: 50vh;
+  width: 14vw;
+  float: left;
+}
+.d{
+  background-color: #871492;
+  height: 50vh;
+  width: 14vw;
+  float: left;
+}
+.e{
+  background-color: #A20D6E;
+  height: 50vh;
+  width: 14vw;
+  float: left;
+}
+.f{
+  background-color: #5CE3C9;
+  height: 50vh;
+  width: 14vw;
+  float: left;
+}
+.g{
+  background-color: #F26A0C;
+  height: 50vh;
+  width: 14vw;
+  float: left;
