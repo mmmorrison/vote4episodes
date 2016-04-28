@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mmmorrison/vote4episodes/issues"
   },
-  "homepage": "https://github.com/mmmorrison/vote4episodes#readme"
+  "homepage": "https://github.com/mmmorrison/vote4episodes#readme",
+  "dependencies": {
+    "pg": "^4.5.5"
+  }
 }
