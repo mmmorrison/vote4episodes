@@ -134,3 +134,33 @@ body {
     width: 20vw;
     float: left;
 }
+.vbrosOne {
+    background-color: #973D26;
+    height: 50vh;
+    width: 20vw;
+    float: left;
+}
+.vbrosTwo {
+    background-color: #E1BC4F;
+    height: 50vh;
+    width: 20vw;
+    float: left;
+}
+.vbrosThree {
+    background-color: #8F6338;
+    height: 50vh;
+    width: 20vw;
+    float: left;
+}
+.vbrosFour {
+    background-color: #FAE89E;
+    height: 50vh;
+    width: 20vw;
+    float: left;
+}
+.vbrosFive {
+    background-color: #188E87;
+    height: 50vh;
+    width: 20vw;
+    float: left;
+}
