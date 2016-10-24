@@ -2,164 +2,219 @@ body {
     min-height: 2000px;
     padding-top: 70px;
 }
+
 .one {
     background-color: #ACD4E9;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .two {
     background-color: #9DDADA;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .three {
     background-color: #855225;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .four {
     background-color: #FFF675;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .five {
     background-color: #029BB2;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .a {
     background-color: #F4B81A;
     height: 50vh;
     width: 14vw;
     float: left;
 }
+
 .b {
     background-color: #A3C144;
     height: 50vh;
     width: 14vw;
     float: left;
 }
+
 .c {
     background-color: #053AF4;
     height: 50vh;
     width: 14vw;
     float: left;
 }
+
 .d {
     background-color: #871492;
     height: 50vh;
     width: 14vw;
     float: left;
 }
+
 .e {
     background-color: #A20D6E;
     height: 50vh;
     width: 14vw;
     float: left;
 }
+
 .f {
     background-color: #5CE3C9;
     height: 50vh;
     width: 14vw;
     float: left;
 }
+
 .g {
     background-color: #F26A0C;
     height: 50vh;
     width: 14vw;
     float: left;
 }
+
 .bojackOne {
     background-color: #BD784A;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .bojackTwo {
     background-color: #F8F4E8;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .bojackThree {
     background-color: #30A4AC;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .bojackFour {
     background-color: #5873B6;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .bojackFive {
     background-color: #767375;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .futuramaOne {
     background-color: #612367;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .futuramaTwo {
     background-color: #D46C0E;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .futuramaThree {
     background-color: #981D19;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .futuramaFour {
     background-color: #55B07E;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .futuramaFive {
     background-color: #7E9CA1;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .vbrosOne {
     background-color: #973D26;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .vbrosTwo {
     background-color: #E1BC4F;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .vbrosThree {
     background-color: #8F6338;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .vbrosFour {
     background-color: #FAE89E;
     height: 50vh;
     width: 20vw;
     float: left;
 }
+
 .vbrosFive {
     background-color: #188E87;
+    height: 50vh;
+    width: 20vw;
+    float: left;
+}
+
+.atOne {
+    background-color: #FFC001;
+    height: 50vh;
+    width: 20vw;
+    float: left;
+}
+
+.atTwo {
+    background-color: #08A3DA;
+    height: 50vh;
+    width: 20vw;
+    float: left;
+}
+
+.atThree {
+    background-color: #0666D8;
+    height: 50vh;
+    width: 20vw;
+    float: left;
+}
+
+.atFour {
+    background-color: #FFFFFF;
     height: 50vh;
     width: 20vw;
     float: left;
